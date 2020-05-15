@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Rifki Apps</string>
+    <string name="splash">RIFKI APPS</string>
+    <string name="headingslide1">SELAMAT DATANG</string>
+    <string name="headingslide2">PROFILE</string>
+    <string name="headingslide3">DAILY ACTIVITY</string>
+    <string name="deskripsislide1">Aplikasi ini adalah aplikasi tentang mahasiswa bernama
+        Rifki Farhansyah, di aplikasi ini kita akan lebih mengenal lebih dalam tentang Rifki Farhansyah</string>
+    <string name="deskripsislide2">di menu profile ini kita akan mengetahui info pribadi tentang Rifki Farhansyah
+    seperti cita, hobi dan masih banyak lagi</string>
+    <string name="deskripsislide3">di menu daily activity ini kita juga bisa tahu keseharian Rifki Farhansyah dan masih
+    banyak lagi fitur lainnya pada aplikasi ini agar kita lebih mengenal Rifki Farhansyah</string>
+    <string name="back">BACK</string>
+    <string name="next">NEXT</string>
+    <string name="nama">Rifki Farhansyah</string>
+    <string name="biodata">
+        Nama                 : Rifki Farhansyah \n
+        Tempat tanggal lahir : Jakarta, 07-08-1999\n
+        umur                 : 20 tahun \n
+        agama                : Islam \n
+        alamat               : Tangerang \n
+
+    </string>
+    <string name="INTERES">INTERES</string>
+    <string name="isiinteres">
+        Hobby       : Main basket, Notnton film \n
+        cita - cita : Guru, programer \n
+    </string>
+
+</resources>
